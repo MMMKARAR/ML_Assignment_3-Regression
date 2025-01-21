@@ -51,11 +51,3 @@ Performance was assessed using:
 ### 5. Insights and Conclusion
 - Non-linear models like **Random Forest** and **Gradient Boosting** outperformed **Linear Regression**, highlighting the importance of capturing complex patterns in the data.  
 - Feature scaling was critical for models like SVR, which are sensitive to the magnitude of input features.
-
----
-
-## Repository Name
-`Regression-Analysis-ML-Assignment`
-
-## Short Description
-A machine learning assignment analyzing the California Housing Dataset using regression models. Includes data preprocessing, model implementation, and performance evaluation to predict housing prices.
